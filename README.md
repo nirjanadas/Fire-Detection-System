@@ -55,7 +55,7 @@ MobileNet-based systems are widely used for fire detection due to their efficien
 ---
 
 ## 📂 Project Structure
-```
+```bash
 fire-detection-mobilenet/
 │
 ├── dataset/ # Training & testing images
