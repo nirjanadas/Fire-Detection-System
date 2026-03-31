@@ -89,7 +89,7 @@ fire-detection-mobilenet/
 - Efficient inference suitable for real-time applications  
 - Reduced computational cost due to lightweight architecture  
 
-(You should add exact accuracy here — otherwise this section is weak)
+(---)
 
 ---
 
