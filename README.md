@@ -1,4 +1,4 @@
-# 🔥 Fire Detection using MobileNet
+# 🔥 Real-Time Fire Detection System
 
 ## 📌 Project Overview
 This project implements a deep learning-based fire detection system using the MobileNet architecture. The model is designed to identify fire in images or video frames in real time, enabling early detection and faster response to potential hazards.
@@ -88,16 +88,6 @@ fire-detection-mobilenet/
 - Achieved high accuracy in detecting fire images  
 - Efficient inference suitable for real-time applications  
 - Reduced computational cost due to lightweight architecture  
-
-(---)
-
----
-
-## 📸 Sample Output
-- Fire detected → Alert triggered  
-- No fire → Safe  
-
-( --- )
 
 ---
 
